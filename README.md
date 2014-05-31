@@ -16,5 +16,6 @@ GDG Evento Inaugural
 <img src="img/gdg7.jpg" />
 
 16:15h - Guilherme - Overview and Get Start
+<img src="img/gdg8.jpg" />
 
 17:00h - Alê Borba - Go for Baby Gophers
