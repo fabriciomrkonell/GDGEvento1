@@ -4,7 +4,7 @@ GDG Evento Inaugural
 13:45 - Alê Borba - O que são Grupos de Desenvolvedores Google?
 
 <img src="img/gdg1.jpg" />
-<img src="img/2gdg2.jpg" />
+<img src="img/gdg2.jpg" />
 
 14:30h - Lucas - Polymer
 
