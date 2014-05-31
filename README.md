@@ -19,3 +19,4 @@ GDG Evento Inaugural
 <img src="img/gdg8.jpg" />
 
 17:00h - Alê Borba - Go for Baby Gophers
+<img src="img/gdg9.jpg" />
