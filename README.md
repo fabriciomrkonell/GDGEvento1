@@ -1,4 +1,6 @@
 GDG Evento Inaugural
 ==========
 
-Evento inaugural do GDG Jaraguá do Sul.
+13:45 - Alê Borba - O que são Grupos de Desenvolvedores Google?
+
+<img src="img/aleborba-gdg.jpg" />
