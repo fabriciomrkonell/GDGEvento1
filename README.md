@@ -11,6 +11,7 @@ GDG Evento Inaugural
 <img src="img/gdg4.jpg" />
 
 15:30h - Rodrigo Branas - AngularJS
+<img src="img/gdg5.jpg" />
 
 16:15h - Guilherme - Overview and Get Start
 
