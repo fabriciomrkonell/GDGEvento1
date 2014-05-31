@@ -7,7 +7,7 @@ GDG Evento Inaugural
 <img src="img/gdg2.jpg" />
 
 14:30h - Lucas - Polymer
-<img src="img/4gdg3.jpg" />
+<img src="img/gdg3.jpg" />
 
 15:30h - Rodrigo Branas - AngularJS
 
